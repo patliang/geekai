@@ -2,7 +2,7 @@
   <div class="container model-list" v-loading="loading">
 
     <div class="handle-box">
-      <el-button type="primary" :icon="Plus" @click="add">新增1</el-button>
+      <el-button type="primary" :icon="Plus" @click="add">新增</el-button>
     </div>
 
     <el-row>
